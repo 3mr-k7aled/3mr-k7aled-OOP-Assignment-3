@@ -1,7 +1,7 @@
 
 - HashSet vs List Contains : https://lnkd.in/p/eKvkn_9C
 -
--  yield :
+-  yield : https://lnkd.in/p/eMmTMcxc
 -  
 - Span<T> :
 - 
