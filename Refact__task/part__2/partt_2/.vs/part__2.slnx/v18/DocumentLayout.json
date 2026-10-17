@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\de\\Desktop\\part__2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2AE4D-4C3A-4C12-8A2A-8331710956BD}|part__2\\part__2.csproj|c:\\users\\de\\desktop\\part__2\\part__2\\answer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{77F2AE4D-4C3A-4C12-8A2A-8331710956BD}|part__2\\part__2.csproj|solutionrelative:part__2\\answer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2AE4D-4C3A-4C12-8A2A-8331710956BD}|part__2\\part__2.csproj|c:\\users\\de\\desktop\\part__2\\part__2\\studentcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F2AE4D-4C3A-4C12-8A2A-8331710956BD}|part__2\\part__2.csproj|solutionrelative:part__2\\studentcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2AE4D-4C3A-4C12-8A2A-8331710956BD}|part__2\\part__2.csproj|c:\\users\\de\\desktop\\part__2\\part__2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F2AE4D-4C3A-4C12-8A2A-8331710956BD}|part__2\\part__2.csproj|solutionrelative:part__2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2AE4D-4C3A-4C12-8A2A-8331710956BD}|part__2\\part__2.csproj|c:\\users\\de\\desktop\\part__2\\part__2\\blockeduserchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F2AE4D-4C3A-4C12-8A2A-8331710956BD}|part__2\\part__2.csproj|solutionrelative:part__2\\blockeduserchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Answer.md",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\part__2\\part__2\\Answer.md",
+              "RelativeDocumentMoniker": "part__2\\Answer.md",
+              "ToolTip": "C:\\Users\\de\\Desktop\\part__2\\part__2\\Answer.md",
+              "RelativeToolTip": "part__2\\Answer.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-16T12:48:07.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlockedUserChecker.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\part__2\\part__2\\BlockedUserChecker.cs",
+              "RelativeDocumentMoniker": "part__2\\BlockedUserChecker.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\part__2\\part__2\\BlockedUserChecker.cs",
+              "RelativeToolTip": "part__2\\BlockedUserChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:38:40.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\part__2\\part__2\\StudentCatalog.cs",
+              "RelativeDocumentMoniker": "part__2\\StudentCatalog.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\part__2\\part__2\\StudentCatalog.cs",
+              "RelativeToolTip": "part__2\\StudentCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:37:26.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\part__2\\part__2\\Program.cs",
+              "RelativeDocumentMoniker": "part__2\\Program.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\part__2\\part__2\\Program.cs",
+              "RelativeToolTip": "part__2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:35:02.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

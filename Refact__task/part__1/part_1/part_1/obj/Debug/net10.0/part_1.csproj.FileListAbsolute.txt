@@ -1,0 +1,15 @@
+C:\Users\de\Desktop\part_1\part_1\bin\Debug\net10.0\part_1.exe
+C:\Users\de\Desktop\part_1\part_1\bin\Debug\net10.0\part_1.deps.json
+C:\Users\de\Desktop\part_1\part_1\bin\Debug\net10.0\part_1.runtimeconfig.json
+C:\Users\de\Desktop\part_1\part_1\bin\Debug\net10.0\part_1.dll
+C:\Users\de\Desktop\part_1\part_1\bin\Debug\net10.0\part_1.pdb
+C:\Users\de\Desktop\part_1\part_1\obj\Debug\net10.0\part_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\de\Desktop\part_1\part_1\obj\Debug\net10.0\part_1.AssemblyInfoInputs.cache
+C:\Users\de\Desktop\part_1\part_1\obj\Debug\net10.0\part_1.AssemblyInfo.cs
+C:\Users\de\Desktop\part_1\part_1\obj\Debug\net10.0\part_1.csproj.CoreCompileInputs.cache
+C:\Users\de\Desktop\part_1\part_1\obj\Debug\net10.0\part_1.dll
+C:\Users\de\Desktop\part_1\part_1\obj\Debug\net10.0\refint\part_1.dll
+C:\Users\de\Desktop\part_1\part_1\obj\Debug\net10.0\part_1.pdb
+C:\Users\de\Desktop\part_1\part_1\obj\Debug\net10.0\part_1.genruntimeconfig.cache
+C:\Users\de\Desktop\part_1\part_1\obj\Debug\net10.0\ref\part_1.dll
+C:\Users\de\Desktop\part_1\part_1\obj\Debug\net10.0\part_1.csproj.Up2Date

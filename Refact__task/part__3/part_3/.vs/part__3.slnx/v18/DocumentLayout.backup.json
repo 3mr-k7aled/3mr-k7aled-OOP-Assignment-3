@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\de\\Desktop\\part__3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04E60F3A-20C7-4FDF-AB1B-1D022C85FDA0}|part__3\\part__3.csproj|c:\\users\\de\\desktop\\part__3\\part__3\\enrollment\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E60F3A-20C7-4FDF-AB1B-1D022C85FDA0}|part__3\\part__3.csproj|solutionrelative:part__3\\enrollment\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E60F3A-20C7-4FDF-AB1B-1D022C85FDA0}|part__3\\part__3.csproj|c:\\users\\de\\desktop\\part__3\\part__3\\enrollment\\enrollmentfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E60F3A-20C7-4FDF-AB1B-1D022C85FDA0}|part__3\\part__3.csproj|solutionrelative:part__3\\enrollment\\enrollmentfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E60F3A-20C7-4FDF-AB1B-1D022C85FDA0}|part__3\\part__3.csproj|c:\\users\\de\\desktop\\part__3\\part__3\\reports\\reportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E60F3A-20C7-4FDF-AB1B-1D022C85FDA0}|part__3\\part__3.csproj|solutionrelative:part__3\\reports\\reportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E60F3A-20C7-4FDF-AB1B-1D022C85FDA0}|part__3\\part__3.csproj|c:\\users\\de\\desktop\\part__3\\part__3\\reports\\csvreportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E60F3A-20C7-4FDF-AB1B-1D022C85FDA0}|part__3\\part__3.csproj|solutionrelative:part__3\\reports\\csvreportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E60F3A-20C7-4FDF-AB1B-1D022C85FDA0}|part__3\\part__3.csproj|c:\\users\\de\\desktop\\part__3\\part__3\\reports\\jsonreportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E60F3A-20C7-4FDF-AB1B-1D022C85FDA0}|part__3\\part__3.csproj|solutionrelative:part__3\\reports\\jsonreportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E60F3A-20C7-4FDF-AB1B-1D022C85FDA0}|part__3\\part__3.csproj|c:\\users\\de\\desktop\\part__3\\part__3\\reports\\textreportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E60F3A-20C7-4FDF-AB1B-1D022C85FDA0}|part__3\\part__3.csproj|solutionrelative:part__3\\reports\\textreportexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E60F3A-20C7-4FDF-AB1B-1D022C85FDA0}|part__3\\part__3.csproj|c:\\users\\de\\desktop\\part__3\\part__3\\answer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{04E60F3A-20C7-4FDF-AB1B-1D022C85FDA0}|part__3\\part__3.csproj|solutionrelative:part__3\\answer.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E60F3A-20C7-4FDF-AB1B-1D022C85FDA0}|part__3\\part__3.csproj|c:\\users\\de\\desktop\\part__3\\part__3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E60F3A-20C7-4FDF-AB1B-1D022C85FDA0}|part__3\\part__3.csproj|solutionrelative:part__3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Answer.md",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\part__3\\part__3\\Answer.md",
+              "RelativeDocumentMoniker": "part__3\\Answer.md",
+              "ToolTip": "C:\\Users\\de\\Desktop\\part__3\\part__3\\Answer.md",
+              "RelativeToolTip": "part__3\\Answer.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-16T13:41:57.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TextReportExporter.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\part__3\\part__3\\Reports\\TextReportExporter.cs",
+              "RelativeDocumentMoniker": "part__3\\Reports\\TextReportExporter.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\part__3\\part__3\\Reports\\TextReportExporter.cs",
+              "RelativeToolTip": "part__3\\Reports\\TextReportExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:31:06.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsonReportExporter.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\part__3\\part__3\\Reports\\JsonReportExporter.cs",
+              "RelativeDocumentMoniker": "part__3\\Reports\\JsonReportExporter.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\part__3\\part__3\\Reports\\JsonReportExporter.cs",
+              "RelativeToolTip": "part__3\\Reports\\JsonReportExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:28:30.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CsvReportExporter.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\part__3\\part__3\\Reports\\CsvReportExporter.cs",
+              "RelativeDocumentMoniker": "part__3\\Reports\\CsvReportExporter.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\part__3\\part__3\\Reports\\CsvReportExporter.cs",
+              "RelativeToolTip": "part__3\\Reports\\CsvReportExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:26:37.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportExporter.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\part__3\\part__3\\Reports\\ReportExporter.cs",
+              "RelativeDocumentMoniker": "part__3\\Reports\\ReportExporter.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\part__3\\part__3\\Reports\\ReportExporter.cs",
+              "RelativeToolTip": "part__3\\Reports\\ReportExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:24:02.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnrollmentFacade.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\part__3\\part__3\\Enrollment\\EnrollmentFacade.cs",
+              "RelativeDocumentMoniker": "part__3\\Enrollment\\EnrollmentFacade.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\part__3\\part__3\\Enrollment\\EnrollmentFacade.cs",
+              "RelativeToolTip": "part__3\\Enrollment\\EnrollmentFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:09:18.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\part__3\\part__3\\Enrollment\\Services.cs",
+              "RelativeDocumentMoniker": "part__3\\Enrollment\\Services.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\part__3\\part__3\\Enrollment\\Services.cs",
+              "RelativeToolTip": "part__3\\Enrollment\\Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:08:59.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\part__3\\part__3\\Program.cs",
+              "RelativeDocumentMoniker": "part__3\\Program.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\part__3\\part__3\\Program.cs",
+              "RelativeToolTip": "part__3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:04:30.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\de\\Desktop\\part_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD6FF30-B0CE-40CD-8BFC-01F12A68C3CE}|part_1\\part_1.csproj|c:\\users\\de\\desktop\\part_1\\part_1\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD6FF30-B0CE-40CD-8BFC-01F12A68C3CE}|part_1\\part_1.csproj|solutionrelative:part_1\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD6FF30-B0CE-40CD-8BFC-01F12A68C3CE}|part_1\\part_1.csproj|c:\\users\\de\\desktop\\part_1\\part_1\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD6FF30-B0CE-40CD-8BFC-01F12A68C3CE}|part_1\\part_1.csproj|solutionrelative:part_1\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD6FF30-B0CE-40CD-8BFC-01F12A68C3CE}|part_1\\part_1.csproj|c:\\users\\de\\desktop\\part_1\\part_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD6FF30-B0CE-40CD-8BFC-01F12A68C3CE}|part_1\\part_1.csproj|solutionrelative:part_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD6FF30-B0CE-40CD-8BFC-01F12A68C3CE}|part_1\\part_1.csproj|c:\\users\\de\\desktop\\part_1\\part_1\\shippingcostcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD6FF30-B0CE-40CD-8BFC-01F12A68C3CE}|part_1\\part_1.csproj|solutionrelative:part_1\\shippingcostcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShippingCostCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\part_1\\part_1\\ShippingCostCalculator.cs",
+              "RelativeDocumentMoniker": "part_1\\ShippingCostCalculator.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\part_1\\part_1\\ShippingCostCalculator.cs",
+              "RelativeToolTip": "part_1\\ShippingCostCalculator.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:15:36.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\part_1\\part_1\\Notification.cs",
+              "RelativeDocumentMoniker": "part_1\\Notification.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\part_1\\part_1\\Notification.cs",
+              "RelativeToolTip": "part_1\\Notification.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:15:30.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\part_1\\part_1\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "part_1\\OrderProcessor.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\part_1\\part_1\\OrderProcessor.cs",
+              "RelativeToolTip": "part_1\\OrderProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:15:09.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\de\\Desktop\\part_1\\part_1\\Program.cs",
+              "RelativeDocumentMoniker": "part_1\\Program.cs",
+              "ToolTip": "C:\\Users\\de\\Desktop\\part_1\\part_1\\Program.cs",
+              "RelativeToolTip": "part_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:14:14.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
