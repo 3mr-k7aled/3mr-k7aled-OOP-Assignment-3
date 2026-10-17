@@ -1,0 +1,15 @@
+C:\Users\de\Desktop\Generics_task\Generics_task\bin\Debug\net10.0\Generics_task.exe
+C:\Users\de\Desktop\Generics_task\Generics_task\bin\Debug\net10.0\Generics_task.deps.json
+C:\Users\de\Desktop\Generics_task\Generics_task\bin\Debug\net10.0\Generics_task.runtimeconfig.json
+C:\Users\de\Desktop\Generics_task\Generics_task\bin\Debug\net10.0\Generics_task.dll
+C:\Users\de\Desktop\Generics_task\Generics_task\bin\Debug\net10.0\Generics_task.pdb
+C:\Users\de\Desktop\Generics_task\Generics_task\obj\Debug\net10.0\Generics_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\de\Desktop\Generics_task\Generics_task\obj\Debug\net10.0\Generics_task.AssemblyInfoInputs.cache
+C:\Users\de\Desktop\Generics_task\Generics_task\obj\Debug\net10.0\Generics_task.AssemblyInfo.cs
+C:\Users\de\Desktop\Generics_task\Generics_task\obj\Debug\net10.0\Generics_task.csproj.CoreCompileInputs.cache
+C:\Users\de\Desktop\Generics_task\Generics_task\obj\Debug\net10.0\Generics_task.dll
+C:\Users\de\Desktop\Generics_task\Generics_task\obj\Debug\net10.0\refint\Generics_task.dll
+C:\Users\de\Desktop\Generics_task\Generics_task\obj\Debug\net10.0\Generics_task.pdb
+C:\Users\de\Desktop\Generics_task\Generics_task\obj\Debug\net10.0\Generics_task.genruntimeconfig.cache
+C:\Users\de\Desktop\Generics_task\Generics_task\obj\Debug\net10.0\ref\Generics_task.dll
+C:\Users\de\Desktop\Generics_task\Generics_task\obj\Debug\net10.0\Generics.A5DBF7A6.Up2Date
